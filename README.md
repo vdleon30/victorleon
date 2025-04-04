@@ -1,17 +1,42 @@
 # 👋 ¡Hola! Soy Victor León
 
-💻 Fullstack Developer | Laravel, Angular, React  
-🚀 7+ años de experiencia en desarrollo web  
-🔧 Especializado en bases de datos, optimización de consultas SQL y gestión de servidores
+💻 **Desarrollador Full-Stack con más de 7 años de experiencia**  
+🚀 Especializado en Laravel, Angular y React  
+🔍 Apasionado por la optimización de sistemas, bases de datos y el desarrollo de APIs
 
-## 🏆 Proyectos Destacados
-- [Sistema de Reservas con Google Calendar](https://github.com/usuario/proyecto1)
-- [Microservicio API de Seguridad con Laravel](https://github.com/usuario/proyecto2)
-- [Integración de TUI Calendar](https://github.com/usuario/proyecto3)
+## 🏆 **Experiencia Profesional**
+### 789mx | **Full-Stack Developer** (2021 - 2024)
+- Desarrollo de APIs Rest para aplicaciones móviles (Android/iOS).
+- Reingeniería y optimización de rendimiento en proyectos web.
+- Gestión de servidores para despliegue y mantenimiento de páginas.
 
-## 🛠️ Habilidades Técnicas
-- Laravel, PHP, SQL, Docker, Angular, React, OpenRoute Service
-- Integraciones avanzadas con APIs externas
-- Optimización de bases de datos y gestión de servidores Linux
+### Fortesza | **Back-End Developer** (2020)
+- Creación y mantenimiento de APIs Rest.
+- Integración de plataformas de inversión en bolsa (Alpaca).
+- Manejo de wallets electrónicas y procesamiento de pagos.
 
-📫 ¡Conéctate conmigo en [LinkedIn](https://linkedin.com/in/victorleon)!
+### Rolsoft | **Front-End Developer** (2019 - 2020)
+- Desarrollo de aplicaciones para E-commerces y plataformas administrativas.
+- Creación de Landing Pages y despliegue de Apps en tiendas.
+- Trabajo con tecnologías como Angular, React y jQuery.
+
+### Otras experiencias:  
+- **LingoCulture**: Mantenimiento de plataforma de aprendizaje de idiomas.  
+- **Imagina Colombia**: Optimización de motores de traducción y procesos de agendamiento de clases.
+
+## 🛠️ **Habilidades Técnicas**
+- **Lenguajes:** PHP, JavaScript, TypeScript, SQL
+- **Frameworks:** Laravel, Angular, React, React Native
+- **Bases de datos:** MySQL, PostgreSQL
+- **DevOps:** Docker, Linux, Git
+- **Otros:** APIs REST, Unit Testing, Google Calendar Integrations
+
+## 🎓 **Educación**
+- **Universidad Nacional Experimental de Guayana** | Ingeniería Informática  
+- **Universidad De Carabobo** | Talleres en GNU/Linux, Haskell y Software Público  
+
+## 📫 **Conéctate conmigo**
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Victor%20León-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/victor-león)  
+📧 Email: vdleon30@gmail.com  
+
+¡Explora mis proyectos y no dudes en contactarme! 🚀
